@@ -4,3 +4,5 @@
 
 # Conventional directory for build output.
 build/
+tzdart3/test/tzdart3_test.dart
+tzdart3/lib/tzdart3.dart
