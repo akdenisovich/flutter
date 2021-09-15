@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   var massiv = [];
-  var l ;
+  int l = 0 ;
   String x ='';
   while (x !='exit') {
     print('Vvedite chislo ');
